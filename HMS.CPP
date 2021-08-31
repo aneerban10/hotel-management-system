@@ -731,8 +731,7 @@ int main()
 	cout<<"\n\t\t\t****************************";
 	cout<<"\n\t\t\t* HOTEL MANAGEMENT PROJECT *";
 	cout<<"\n\t\t\t****************************";
-	cout<<"\n\n\t\t Made By:";
-	cout<<"ANSHUMAN SAHOO AND ANEERBAN CHOWDHURY";
+	cout<<"\n\n\t\t Made By: ANEERBAN CHOWDHURY";
 	cout<<"\n\n\t\t\t Press any key to continue!!";
 	getch();
 	h.main_menu();
